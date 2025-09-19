@@ -1,0 +1,38 @@
+.order {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 740px;
+    padding: 10px 0px;
+    margin: 30px;
+    border-radius: 6px;
+    background: white;
+  }
+  
+  .order-format-main {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .order-format-main th,
+  .order-format-main td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .order-allusers {
+    overflow-y: auto;
+  }
+  
+  @media (max-width: 800px) {
+    .order {
+      box-sizing: border-box;
+      width: 95%;
+      height: 100%;
+      padding: 10px 30px;
+      margin: 20px auto;
+    }
+  }
+  

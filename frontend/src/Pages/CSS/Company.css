@@ -1,0 +1,63 @@
+#page-header.company-header{
+    background-image: url(../../Components/Assets/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.company {
+    text-align: center;
+    margin: 0px auto;
+    max-width: 800px;
+    max-height: 799px;
+    background: transparent;
+    padding: 50px;
+}
+
+.company h1 {
+    color: #171717;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.company p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.company h2 {
+    color: #171717;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.company ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.company ul li {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 800px) {
+    .company {
+        margin: 20px auto;
+    }
+    
+    .company h1 {
+        font-size: 24px;
+    }
+
+    .company p,
+    .company h2,
+    .company ul li {
+        font-size: 16px;
+    }
+}

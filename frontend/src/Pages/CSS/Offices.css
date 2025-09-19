@@ -1,0 +1,62 @@
+#page-header.office-header{
+    background-image: url(../../Components/Assets/banner.png);
+}
+.offices {
+    text-align: center;
+    margin: 0px auto;
+    max-width: 800px;
+    max-width: 300px;
+    background-image: url(../../Components/Assets/banner.png);
+    background: transparent;
+    padding: 20px;
+}
+
+.offices h1 {
+    color: #171717;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.offices p {
+    color: #000;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.offices h2 {
+    color: #171717;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.offices ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.offices ul li {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 800px) {
+    .offices {
+        margin: 20px auto;
+    }
+    
+    .offices h1 {
+        font-size: 24px;
+    }
+
+    .offices p,
+    .offices h2,
+    .offices ul li {
+        font-size: 16px;
+    }
+}

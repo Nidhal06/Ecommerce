@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "65cc18eb8dd803898f64b4ba"
+  },
+  "id": 1,
+  "name": "IPHONE 15 PRO MAX Natural titanium 256GB ",
+  "image": "http://localhost:4000/images/product_1707874538788.jpg",
+  "category": "phone",
+  "new_price": 4499,
+  "old_price": 4649,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T01:35:39.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc262e8dd803898f64b563"
+  },
+  "id": 2,
+  "name": "Smart Watch Samsung Galax y  4 Classic - Noir",
+  "image": "http://localhost:4000/images/product_1707877933788.jpg",
+  "category": "accessorie",
+  "new_price": 1200,
+  "old_price": 1300,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:32:14.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc26668dd803898f64b568"
+  },
+  "id": 3,
+  "name": "Setup Gamer Pc De Bureau Gaming / Ryzen 5",
+  "image": "http://localhost:4000/images/product_1707877990267.jpg",
+  "category": "pc",
+  "new_price": 2099,
+  "old_price": 2255,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:33:10.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc26868dd803898f64b56b"
+  },
+  "id": 4,
+  "name": "LENOVO IDEAPAD GAMING 3 |CORE I7|RTX3050TI|16GB",
+  "image": "http://localhost:4000/images/product_1707878021822.jpg",
+  "category": "pc",
+  "new_price": 3089,
+  "old_price": 3115,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:33:42.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc280a8dd803898f64b581"
+  },
+  "id": 5,
+  "name": "MSI KATANA 17 | I7 12650H | RTX 2050 |16 GB DDR5 | NVME 512GB",
+  "image": "http://localhost:4000/images/product_1707878410443.jpg",
+  "category": "pc",
+  "new_price": 2999,
+  "old_price": 3085,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:40:10.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc299c8dd803898f64b586"
+  },
+  "id": 6,
+  "name": "ASUS TUF GAMING F17 | I7-12700H |16GO| 512GO |RTX 3050",
+  "image": "http://localhost:4000/images/product_1707878812120.jpg",
+  "category": "pc",
+  "new_price": 3219,
+  "old_price": 3455,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:46:52.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc2a658dd803898f64b58d"
+  },
+  "id": 7,
+  "name": "GIGABYTE AERO 16 BSF OLED | CORE I7 | 16 GB RAM | RTX 4070 | 1TO NVME",
+  "image": "http://localhost:4000/images/product_1707879012989.jpg",
+  "category": "pc",
+  "new_price": 7399,
+  "old_price": 7510,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:50:13.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc2c308dd803898f64b5a4"
+  },
+  "id": 8,
+  "name": "ASUS VIVOBOOK PRO 16X | I7 13650HX |RTX4070 |16GB | NVME 512 GB",
+  "image": "http://localhost:4000/images/product_1707879472615.jpg",
+  "category": "pc",
+  "new_price": 4699,
+  "old_price": 4799,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T02:57:52.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc2d828dd803898f64b5b2"
+  },
+  "id": 9,
+  "name": "LEGION PRO 5 | CORE I7-13700Hx | Nvidia RTX 4060 | 16GB DDR5 | NVME 1TB",
+  "image": "http://localhost:4000/images/product_1707879810475.jpg",
+  "category": "pc",
+  "new_price": 6109,
+  "old_price": 6240,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:03:30.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc2eab8dd803898f64b5c0"
+  },
+  "id": 10,
+  "name": "AORUS 15 BKF | CORE I7-13700H | 16 GB RAM | RTX 4060 | 1 TB NVME",
+  "image": "http://localhost:4000/images/product_1707880107049.jpg",
+  "category": "pc",
+  "new_price": 5489,
+  "old_price": 5615,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:08:27.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc30e88dd803898f64b5d8"
+  },
+  "id": 11,
+  "name": "SMARTPHONE XIAOMI REDMI NOTE 13 PRO 12GO 512GO",
+  "image": "http://localhost:4000/images/product_1707880680189.jpg",
+  "category": "phone",
+  "new_price": 1260,
+  "old_price": 1399,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:18:00.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc332b8dd803898f64b5f6"
+  },
+  "id": 12,
+  "name": "IPHONE 14 - BLUE Natural titanium  | 128GO",
+  "image": "http://localhost:4000/images/product_1707881259110.jpg",
+  "category": "phone",
+  "new_price": 3656,
+  "old_price": 3960,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:27:39.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc33638dd803898f64b5fb"
+  },
+  "id": 13,
+  "name": "SMARTPHONE HONOR 90 LITE 5G 8GO 256GO",
+  "image": "http://localhost:4000/images/product_1707881315625.jpg",
+  "category": "phone",
+  "new_price": 879,
+  "old_price": 999,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:28:35.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc349c8dd803898f64b609"
+  },
+  "id": 14,
+  "name": "SMARTPHONE REALME 11 4G 8GO 256GO - GOLD",
+  "image": "http://localhost:4000/images/product_1707881627909.jpg",
+  "category": "phone",
+  "new_price": 729,
+  "old_price": 899,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:33:48.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc352a8dd803898f64b60e"
+  },
+  "id": 15,
+  "name": "SMARTPHONE OPPO A78 8GO 256GO",
+  "image": "http://localhost:4000/images/product_1707881769838.jpg",
+  "category": "phone",
+  "new_price": 929,
+  "old_price": 999,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:36:10.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc35c38dd803898f64b613"
+  },
+  "id": 16,
+  "name": "SAMSUNG GALAXY A14 5G 6GO 128GO",
+  "image": "http://localhost:4000/images/product_1707881923551.jpg",
+  "category": "phone",
+  "new_price": 659,
+  "old_price": 819,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:38:43.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc363a8dd803898f64b618"
+  },
+  "id": 17,
+  "name": "SMARTPHONE VIVO Y35 8GO 128GO",
+  "image": "http://localhost:4000/images/product_1707882041702.jpg",
+  "category": "phone",
+  "new_price": 700,
+  "old_price": 799,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:40:42.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc374b8dd803898f64b61d"
+  },
+  "id": 18,
+  "name": "EARBUDS INFINIX XE23 TWS - White",
+  "image": "http://localhost:4000/images/product_1707882315421.jpg",
+  "category": "accessorie",
+  "new_price": 49,
+  "old_price": 79,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:45:15.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc37dd8dd803898f64b622"
+  },
+  "id": 19,
+  "name": "Borofone BJ31 Mini Power Bank 5000mAh Black",
+  "image": "http://localhost:4000/images/product_1707882461110.jpg",
+  "category": "accessorie",
+  "new_price": 39,
+  "old_price": 49,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:47:41.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc39628dd803898f64b630"
+  },
+  "id": 20,
+  "name": "ANKER SOUNDCORE BLUETOOTH LIFE 2 NEO - BLACK",
+  "image": "http://localhost:4000/images/product_1707882850248.jpg",
+  "category": "accessorie",
+  "new_price": 169,
+  "old_price": 199,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:54:10.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc3aa48dd803898f64b635"
+  },
+  "id": 21,
+  "name": "VIDEO PROJECTEUR FOCUS S20 | 1280*720P |  32-176 pouces ",
+  "image": "http://localhost:4000/images/product_1707883171507.jpg",
+  "category": "accessorie",
+  "new_price": 475,
+  "old_price": 519,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T03:59:32.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc3bf48dd803898f64b63a"
+  },
+  "id": 22,
+  "name": "REDRAGON MA301 HODER MOUSE SUPPORT - BLACK",
+  "image": "http://localhost:4000/images/product_1707883508439.jpg",
+  "category": "accessorie",
+  "new_price": 29,
+  "old_price": 40,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T04:05:08.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc3ccd8dd803898f64b648"
+  },
+  "id": 23,
+  "name": "EPSON ECOTANK L6270 WIFI, COULEUR, MULTIFONCTION 3EN1",
+  "image": "http://localhost:4000/images/product_1707883725543.jpg",
+  "category": "accessorie",
+  "new_price": 1000,
+  "old_price": 1189,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T04:08:45.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc3dbc8dd803898f64b64d"
+  },
+  "id": 24,
+  "name": "NINTENDO SWITCH V2 + JOY-CON (ROUGE) ET (BLEU)",
+  "image": "http://localhost:4000/images/product_1707883963903.jpg",
+  "category": "accessorie",
+  "new_price": 1499,
+  "old_price": 1599,
+  "available": true,
+  "date": {
+    "$date": "2024-02-14T04:12:44.108Z"
+  },
+  "__v": 0
+}]

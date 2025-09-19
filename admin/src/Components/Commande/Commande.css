@@ -1,0 +1,68 @@
+.Commande{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 740px;
+    padding: 10px 50px;
+    margin: 30px;
+    border-radius: 6px;
+    background: white;
+}
+
+.Commande-format-main{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    width: 100%;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 15px;
+    font-weight: 600;
+}
+.listproduct-remove-icon{
+    cursor: pointer;
+}
+.Commande-format-main .header{
+    margin-left: 150px;
+}
+.Commande-format-main .email{
+    margin-right: 120px;
+}
+.Commande-format-main .remove{
+    margin-left: 120px;
+}
+.Commande-format-main .value{
+    margin-left: 50px;
+}
+.Commande-format-main img{
+    margin-left: 50px;
+}
+
+.Commande-allusers{
+    overflow-y: auto;
+}
+
+
+.Commande-format{
+    align-items: center;
+    font-weight: 500;
+}
+
+@media(max-width:800px){
+    .Commande{
+        box-sizing: border-box;
+        width: 95%;
+        height: 100%;
+        padding: 10px 30px;
+        margin: 20px auto;
+    }
+    .Commande-format-main{
+        padding: 15px 0px;
+        color: #454545;
+        font-size: 12px;
+    }
+    .Commande-product-icon{
+        height: 60px;
+    }
+}
